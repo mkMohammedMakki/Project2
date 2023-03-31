@@ -341,7 +341,7 @@ body {
 
 
 .a2nskills {
-    background-image: url(../Images/call-to-action-bg.jpg);
+    background-image: url(/Images/call-to-action-bg.jpg);
     padding: 70px 25px;
     padding-top: 47px;
     color: #fff;
