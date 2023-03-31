@@ -43,7 +43,7 @@ body {
 
 
 .banner {
-    background-image: url(./images/parallax-bg.jpg);
+    background-image: url(./Images/parallax-bg.jpg);
     padding: 50px 0px;
     background-repeat: no-repeat;
 }
@@ -341,7 +341,7 @@ body {
 
 
 .a2nskills {
-    background-image: url(../images/call-to-action-bg.jpg);
+    background-image: url(../Images/call-to-action-bg.jpg);
     padding: 70px 25px;
     padding-top: 47px;
     color: #fff;
