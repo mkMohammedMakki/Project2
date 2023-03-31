@@ -1,0 +1,1030 @@
+.container {
+    max-width: 1300px;
+}
+
+body {
+    font-size: 19px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    box-shadow: 0 2px 6px 0 rgb(0 0 0 / 12%), inset 0 -1px 0 0 #dadce0;
+    display: flex;
+
+}
+
+.logo img {
+    width: 234px;
+}
+
+.menu {
+    text-align: right;
+    padding-right: 0px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu img {
+    margin-right: 6px;
+    width: 22px;
+    float: left;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 17px;
+}
+
+
+
+.banner {
+    background-image: url(./images/parallax-bg.jpg);
+    padding: 50px 0px;
+    background-repeat: no-repeat;
+}
+
+.banner1 {
+    float: left;
+
+    padding-right: 5%;
+
+}
+
+.banner2 {
+
+    margin-left: 18%;
+}
+
+.banner1 h1 {
+    font-size: 34px;
+    line-height: 44px;
+    margin: 0 0 20px;
+    padding-bottom: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.banner1 p {
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+
+.banner1 h2 {
+    padding-bottom: 20px;
+    padding-top: 15px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.banner1 li {
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+
+.banner1 ul {
+    margin-bottom: 25px;
+}
+
+.btnstyle {
+    background-color: #f5233e;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-weight: 600;
+    border: 1px solid #f5233e;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+/* form section */
+
+.form {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.form label {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.form-control {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    font-family: inherit;
+    padding: 0px 4%;
+    font-weight: 500;
+    color: #212121;
+}
+
+.form h3 {
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+
+
+
+
+
+.key-features {
+    padding: 5px 0px;
+    background-color: #fff;
+}
+
+.feature {
+    border-radius: 2px;
+    float: left;
+    box-shadow: 0 0 15px 1px rgb(0 0 0 / 15%);
+    padding: 15px 10px 10px 10px;
+    margin-right: 2%;
+}
+
+.feature:last-child {
+    margin-right: 0px;
+}
+
+.icon {
+    float: left;
+    width: 20%;
+}
+
+.content {
+    float: left;
+    width: 80%;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.content h4 {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.content p {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+
+.webdesign {
+    padding: 50px 0px 0px 0px;
+    background-color: #fff;
+}
+
+.webdesign1 {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.webdesign2 {
+    width: 100%;
+    float: left;
+}
+
+.webdesign1 h2 {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.webdesign1 p {
+    margin-bottom: 50px;
+    line-height: 30px;
+}
+
+
+.web21 {
+    float: left;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 20px 0px;
+    box-shadow: 1px 2px 6px rgb(0 0 0 / 25%);
+    border-top: 3px solid orange;
+    border-radius: 3px;
+    margin: 0px 15%;
+    margin-bottom: 70px;
+    margin-left: 1%;
+    margin-right: 1%;
+    min-height: 250px;
+}
+
+.web21 img {
+    width: 75px;
+}
+
+.web21 p {
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+.web21 h4 {
+    margin-bottom: 15px;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.orange-border {
+    border-top: solid 3px orange;
+
+}
+
+.green-border {
+    border-top: solid 3px green;
+
+}
+
+.green-border {
+    border-top: solid 3px green;
+}
+
+.red-border {
+    border-top: solid 3px red;
+
+}
+
+.skyblue-border {
+    border-top: solid 3px #6FD1F9;
+
+
+}
+
+.yellow-border {
+    border-top: solid 3px #FEA202;
+}
+
+.navy-border {
+    border-top: solid 3px #2378F3;
+}
+
+.maroon-border {
+    border-top: solid 3px #1cb4c2;
+
+}
+
+
+
+
+.jobs {
+    background-color: #f0f8ff;
+    padding: 50px 0px;
+    float: left;
+    width: 100%;
+}
+
+.job-in {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 50px;
+}
+
+.job-in h2 {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.job-in p {
+    text-align: center;
+    line-height: 34px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+
+}
+
+.job-in h4 {
+    font-size: 20px;
+    margin-bottom: 19px;
+    margin-top: 40px;
+    font-weight: 600;
+
+}
+
+.job-in li {
+    font-size: 20px;
+    margin: 10px 0px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+.a2nskills {
+    background-image: url(../images/call-to-action-bg.jpg);
+    padding: 70px 25px;
+    padding-top: 47px;
+    color: #fff;
+    float: left;
+    width: 100%;
+    background-position: right bottom;
+}
+
+.a2nskills h3 {
+    font-size: 34px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.a2nskills h4 {
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.a2nskills h3 span {
+    font-size: 15px;
+}
+
+.a2nskills p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.btnstyle1 {
+    background-color: #fff;
+    color: #212121;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-weight: 500;
+    border: 1px solid #fff;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+.benefits {
+    padding: 70px 0px;
+    float: left;
+    width: 100%;
+
+}
+
+.benefits-content li {
+
+    line-height: 35px;
+    padding: 0px;
+    margin-left: -15px;
+    padding-top: 4px;
+    color: #272525;
+
+}
+
+.benefits-content h2 {
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: 0.5px;
+    color: #2d2a2a;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+.companies {
+    padding: 35px 0px;
+    background: #f5f5f5;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.text-center-h2 {
+    text-align: center;
+    font-size: 28px;
+    line-height: 38px;
+    color: #2d2a2a;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+.text-center-p {
+    text-align: center;
+    margin-left: 10px;
+    padding: 0px 13%;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.companies-img {
+    margin: auto;
+    width: 950px;
+}
+
+
+
+
+
+
+
+.students {
+    padding: 70px 0px;
+    width: 100%;
+    float: left;
+}
+
+.students-review {
+    width: 100%;
+    float: left;
+}
+
+.students-review-img {
+    width: 100%;
+    float: left;
+}
+
+.r-img img {
+    float: left;
+    padding-top: 30px;
+}
+
+
+
+
+
+.visit {
+    padding: 35px 0px;
+    background: #f5f5f5;
+    width: 100%;
+    float: left;
+}
+
+.visit-address {
+    text-align: center;
+}
+
+.visit-address h2 {
+    margin-top: 0px;
+    font-size: 28px;
+    line-height: 38px;
+    margin-bottom: 25px;
+    font-weight: 700;
+
+}
+
+.visit-address p {
+    padding-bottom: 20px;
+    line-height: 1;
+}
+
+.btnstyled {
+    background: #f5233e;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid #f5233e;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    line-height: 30px;
+    font-family: inherit;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.footer {
+    background: #252525;
+    padding: 15px 0px;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+    float: left;
+}
+
+.footer1 {
+    width: 50%;
+    float: left;
+}
+
+.footer2 {
+    width: 50%;
+    text-align: right;
+    float: right;
+
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .banner2 {
+        margin-left: 0px;
+    }
+
+    .feature {
+        width: 100%;
+        margin-bottom: 5%;
+    }
+
+    .webdesign1 h2 {
+        margin-top: 20px;
+    }
+
+    .web21 {
+        min-height: 285px;
+    }
+
+    .a2nskills {
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .companies-img {
+        width: 100%;
+    }
+}
+
+
+/* Ipad air Portrait */
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .body {
+        font-size: 17px;
+    }
+
+    .logo img {
+        width: 200px;
+    }
+
+    .menu {
+        font-size: 15px;
+    }
+
+    .banner2 {
+        margin-left: 0px;
+    }
+
+    .banner1 h1 {
+        font-size: 26px;
+    }
+
+    .banner1 h2 {
+        font-size: 27px;
+    }
+
+    .feature {
+        width: 100%;
+        margin-bottom: 5%;
+    }
+
+    .icon {
+        width: 18%;
+    }
+
+    .webdesign1 h2 {
+        font-size: 25px;
+    }
+
+    .web21 {
+        min-height: 310px;
+    }
+
+    .web21 p {
+        font-size: 14px;
+    }
+
+    .web21 img {
+        width: 70px;
+    }
+
+    .job-in h2 {
+        font-size: 26px
+    }
+
+    .a2nskills {
+        background-image: url(https://source.unsplash.com/random/400*400/?technology,web,nature);
+    }
+
+    .benefits-content h2 {
+        font-size: 26PX;
+    }
+
+    .text-center-h2 {
+        font-size: 26px;
+    }
+
+    .companies-img {
+        width: 100%;
+    }
+
+    .text-center-p {
+        padding: 0px;
+    }
+
+    .visit-address h2 {
+        font-size: 26px;
+    }
+
+    .footer {
+        font-size: 11px;
+    }
+
+
+}
+
+
+
+
+@media only screen and (max-width:655px){
+    .container{
+        max-width: 620px;
+    }
+}
+
+
+
+
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .container {
+        width: 100%;
+    }
+
+    body {
+        font-size: 17px;
+    }
+
+    .logo img {
+        width: 200px;
+    }
+
+    .menu {
+        font-size: 13px;
+    }
+
+    .menu img {
+        width: 20px;
+    }
+
+    .banner1 h1 {
+        font-size: 26px;
+    }
+
+    .banner1 h2 {
+        font-size: 26px;
+    }
+
+    .btnstyle {
+        font-size: 12px;
+        margin-top: 10px;
+        padding: 5px 15px;
+        margin-bottom: 20px;
+    }
+
+    .banner2 {
+        margin-right: 35%;
+        margin-left: 0px;
+    }
+
+    .form h3 {
+        font-size: 25px;
+    }
+
+    .form label {
+        font-size: 14px;
+    }
+
+    .form-control {
+        font-size: 13px;
+    }
+
+    .feature {
+        width: 100%;
+        margin-bottom: 5%;
+    }
+
+    .icon {
+        width: 18%;
+    }
+
+    .webdesign1 h2 {
+        font-size: 25px;
+    }
+
+    .job-in h2 {
+        font-size: 25px;
+    }
+
+    .a2nskills {
+        background-image: url(https://source.unsplash.com/random/400*400/?technology,web,nature);
+    }
+
+    .a2nskills h3 {
+        font-size: 30px;
+    }
+
+    .a2nskills h4 {
+        font-size: 19px;
+    }
+
+    .a2nskills p {
+        font-size: 17px;
+    }
+
+    .btnstyle1 {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+
+    .benefits-content h2 {
+        font-size: 25px;
+    }
+
+    .text-center-h2 {
+        font-size: 25px;
+    }
+
+    .text-center-p {
+        padding: 0px;
+    }
+
+    .companies-img {
+        width: 100%;
+    }
+
+    .visit-address h2 {
+        font-size: 25px;
+    }
+
+    .btnstyled {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+
+    .footer {
+        font-size: 14px;
+    }
+
+    .footer1 {
+        width: 100%;
+    }
+
+    .footer2 {
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (max-width:655px){
+    .container{
+        max-width: 620px;
+    }
+    .menu ul{
+        padding: 0px;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width:575px) {
+    .container {
+        width: 100%;
+    }
+
+    body {
+        font-size: 15px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .logo img {
+        width: 150px;
+    }
+
+    .menu ul {
+        padding: 0px;
+    }
+
+    .menu ul li {
+        margin-left: 0px;
+        padding-top: 0px;
+    }
+
+    .menu img {
+        width: 16px;
+        float: none;
+    }
+
+    .menu a {
+        margin-right: 7px;
+    }
+
+    .menu {
+        font-size: 13px;
+        text-align: center;
+    }
+    .banner1{
+        float: none;
+        padding-right: 0px;
+    }
+    .banner1 h1 {
+        font-size: 22px;
+        line-height: 30px;
+        margin: 0px;
+    }
+    .banner1 h2{
+        font-size: 22px;
+    }
+    .banner1 ul{
+        padding-left: 15px;
+    }
+    .banner1 li{
+        line-height: 25px;
+    }
+    .btnstyle{
+        margin-top: 10px;
+        padding: 5px 15px;
+        font-size: 10px;
+        margin-bottom: 20px;
+    }
+    .banner2{
+        margin-left: 0px;
+    }
+    .form h3 {
+        font-size: 20px;
+    }
+    .form label {
+        font-size: 14px;
+    }
+    .form-control {
+        font-size: 13px;
+    }
+    .feature {
+        width: 100%;
+        margin-bottom: 5%;
+    }
+
+    .icon {
+        width: 18%;
+    }
+    .content p{
+        font-size: 13px;
+    }
+    .content h4{
+        font-size: 15px;
+    }
+    .webdesign1 h2{
+        margin-top: 0px;
+        font-size: 22px;
+    }
+    .job-in {
+        padding: 20px;
+    }
+    .job-in h2 {
+        font-size: 22px;
+    }
+    .job-in h4{
+        font-size: 18px;
+    }
+    .a2nskills {
+        background-image: url(https://source.unsplash.com/random/400*400/?technology,web,nature);
+    }
+    .a2nskills h3{
+        font-size: 27px;
+    }
+    .a2nskills h4 {
+        font-size: 18px;
+    }
+    .a2nskills p{
+        font-size: 15px;
+    }
+    .btnstyle1 {
+        font-size: 11px;
+        padding: 5px 15px;
+    }
+    .benefits-content h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .benefits-content li {
+        line-height: 25px;
+    }
+    .text-center-h2{
+        font-size: 22px;
+    }
+    .text-center-p{
+        margin-left: 0px;
+        padding: 0px;
+        margin-bottom: 10px;
+    }
+    .companies-img{
+        width: 100% ;
+    }
+    .visit-address h2{
+        font-size: 20px;
+    }
+    .visit-address p{
+        font-size: 14px;
+    }
+    .btnstyled{
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .footer {
+        font-size: 13px;
+        text-align: center;
+        
+    }
+
+    .footer1 {
+        width: 100%;
+        float: none;
+    }
+
+    .footer2 {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    
+}
+
+
+
+
+
+
+
+@media only screen and  (max-width:540px){
+    .container{
+        max-width: 500px;
+        padding: 0px 15px;
+    }
+    .web21 {
+        width: 100%;
+    }
+}
+
+
+
+
+@media only screen and (max-width:280px){
+    .job-in li{
+        font-size: 14px;
+    }
+    .text-center-h2{
+        font-size: 19px;
+        line-height: 28px;
+    }
+}
